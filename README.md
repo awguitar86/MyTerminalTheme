@@ -1,0 +1,1 @@
+This is a repo where I store the info for my favorite oh-my-zsh terminal and styling.
